@@ -1,0 +1,11 @@
+body {
+	background: url("Rick.jpg");
+	background-size:cover;
+    <!--background: -color: red;-->
+}
+h1 {
+    color: red;
+}
+p {
+    color: red;
+}
